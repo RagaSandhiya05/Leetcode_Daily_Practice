@@ -1,3 +1,4 @@
+// Maximum Product of Two Digits
 class Solution {
     public int maxProduct(int n) {
         int digit1 = 0;
